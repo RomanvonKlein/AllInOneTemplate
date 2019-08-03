@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "AllInOneTemplate Resources",
+    "description": "Behaviors",
+    "uuid": "97ae199c-ed24-4030-9793-2e45ad84bc6d",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources for AllInOneTemplate",
+      "type": "resources",
+      "uuid": "d4c24c35-9e1a-44c0-b001-7d59d4da02e7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

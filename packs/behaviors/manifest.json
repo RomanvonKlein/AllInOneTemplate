@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "AllInOneTemplate Behaviors",
+    "description": "Behaviors",
+    "uuid": "b90eccf6-1ba8-4c24-8a3d-4398cebc2fdb",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for AllInOneTemplate",
+      "type": "client_data",
+      "uuid": "e43198eb-96cc-464f-88f9-8050562d18c7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "97ae199c-ed24-4030-9793-2e45ad84bc6d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
