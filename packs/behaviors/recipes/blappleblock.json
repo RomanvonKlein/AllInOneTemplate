@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "allinonetemplate:blappleblock"
+      },
+  
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "#"
+      ],
+      "key": {
+        "#": {
+          "item": "allinonetemplate:blueapple"
+        }
+      },
+      "result": {
+        "item": "allinonetemplate:blappleblock"
+      }
+    }
+    
+  }
+  
