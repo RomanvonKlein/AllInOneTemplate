@@ -2,7 +2,8 @@
     "format_version": "1.10",
     "minecraft:item": {
       "description": {
-        "identifier": "allinonetemplate:blueapple"
+        "identifier": "allinonetemplate:blueapple",
+        "register_to_creative_menu": true
       },
   
       "components": {

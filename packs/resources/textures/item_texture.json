@@ -4,6 +4,9 @@
     "texture_data": {
         "blueapple": {
             "textures": "textures/items/blueapple"
+        },
+        "blappleblock": {
+            "textures": "textures/blocks/blappleblock"
         }
     }
 }
