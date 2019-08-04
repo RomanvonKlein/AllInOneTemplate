@@ -1,0 +1,16 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+      "description": {
+        "identifier": "allinonetemplate:blueapple"
+      },
+  
+      "components": {
+        "minecraft:use_duration": 32,
+        "minecraft:food": {
+          "nutrition": 20,
+          "saturation_modifier": "low"
+        }
+      }
+    }
+  }
